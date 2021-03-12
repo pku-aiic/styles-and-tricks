@@ -1,0 +1,11 @@
+.idea/*
+.DS_Store
+*.c
+*.pyc
+*.pyd
+.vscode/*
+_*/
+dist/*
+build/*
+carefree_data.egg-info
+pip-wheel-metadata
