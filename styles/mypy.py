@@ -14,4 +14,4 @@ def case_3(x: int) -> None:
     print(x)
 
 
-case_3(1.123)
+case_3(1)
