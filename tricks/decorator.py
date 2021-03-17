@@ -26,4 +26,4 @@ class YeahModel(MyFancyModelBase):
 
 if __name__ == "__main__":
     model_dict["yeah"]()
-
+-
