@@ -23,7 +23,7 @@ x = [
     18,
     19,
     20,
-    21, 
+    21,
     22,
     23,
     24,
@@ -52,6 +52,6 @@ def f1(
 
 
 def this_is_a_very_long_function_name(
-    my_fancy_arg1: Any,my_fancy_arg2: Any, my_fancy_arg3: Any
+    my_fancy_arg1: Any, my_fancy_arg2: Any, my_fancy_arg3: Any
 ) -> None:
     pass
