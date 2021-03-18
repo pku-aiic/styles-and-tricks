@@ -17,13 +17,3 @@ class MyFancyModelBase:
             return cls_
 
         return _core
-
-
-@MyFancyModelBase.register("yeah")
-class YeahModel(MyFancyModelBase):
-    pass
-
-
-if __name__ == "__main__":
-    model_dict["yeah"]()
-
