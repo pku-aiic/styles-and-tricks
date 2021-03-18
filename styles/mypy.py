@@ -1,5 +1,5 @@
 # case 1 - missing typing
-def case_1(**kwargs : str) -> None:
+def case_1(**kwargs: str) -> None:
     print(kwargs)
 
 
