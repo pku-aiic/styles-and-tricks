@@ -17,9 +17,3 @@ class MyFancyModelBase:
             return cls_
 
         return _core
-
-
-@MyFancyModelBase.register("yeah")
-class YeahModel(MyFancyModelBase):
-    pass
-
