@@ -23,7 +23,3 @@ class MyFancyModelBase:
 class YeahModel(MyFancyModelBase):
     pass
 
-
-if __name__ == "__main__":
-    model_dict["yeah"]()
-
