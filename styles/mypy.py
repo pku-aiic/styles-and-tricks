@@ -5,7 +5,7 @@ def case_1(**kwargs):
 
 # case 2 - re-assignment
 def case_2() -> None:
-    a = 0
+    # a = 0
     a = "Hello!"
     print(a)
 
@@ -15,4 +15,4 @@ def case_3(x: int) -> None:
     print(x)
 
 
-case_3(1.0)
+case_3(1)
